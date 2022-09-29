@@ -21,6 +21,6 @@ The multi-line chart below illustrates the total fare by area type for the first
 # Summary 
 Based on the results from the analysis shown above, we make the following recommendations to the CEO to address the disparities among the area types:
 
-1. As shown in the multi-line chart, there are differences in total fare by area type depending on the month. Therefore, we recommend the CEO to use trends like rural area having a peak at the start of April to optimize the pricing.
+1. As shown in the multi-line chart, there are differences in total fare by area type depending on the month. Therefore, we recommend the CEO to use trends like rural areas having a peak at the start of April to optimize the pricing.
 2. The number of rides is significantly low in rural areas while the average fare is the highest. To address this, the CEO should give fare discounts to encourage more people in rural areas to use the app and can eventually raise the prices again as more rural people get used to the ridesharing app. 
 3. There are only 78 drivers in rural areas so we recommend that the CEO promotes the app more in rural areas to get more drivers to sign up. This can help reduce the wait times for riders in rural areas which can help increase ridership.
